@@ -25,7 +25,7 @@ This file contained instructions and the password for the next level.
 
 ### 📸 Proof of Work
 
-![Level 0 Output](screenshots/level00.png)
+![Level 0 Output](Screenshots/level00.png)
 
 ---
 
