@@ -34,4 +34,27 @@ Any script placed in this folder would be executed as `bandit24`.
 
 ### 📸 Proof of Work
 
-**Understanding the cro**
+**Understanding the cron job and where scripts are executed**  
+![Cron script](Screenshots/level23_1.png)
+
+-
+
+**Injecting a script and reading the generated password file**  
+![Exploit result](Screenshots/level23_2.png)
+
+---
+
+### 🏁 Result
+Password for the next level:  
+gb8KRRCsshuZXI0tUuR6ypOFjizbF3G8
+
+---
+
+### 🧠 Why This Worked
+The cron job runs every minute and executes every script inside the spool directory as `bandit24`.  
+By placing a custom script there, the password file for `bandit24` was copied into a readable location.
+
+---
+
+### 🛡️ Skill Gained
+Learning how writable cron execution directories can be exploited to run arbitrary commands as another user.
