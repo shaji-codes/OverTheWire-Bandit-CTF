@@ -24,7 +24,7 @@ Because the filename starts with a hyphen, it cannot be opened normally.
 ---
 
 ### 📸 Proof of Work
-![Level 1 Output](screenshots/level01.png)
+![Level 1 Output](Screenshots/level01.png)
 
 ---
 
