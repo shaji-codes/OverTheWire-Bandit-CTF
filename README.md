@@ -1,4 +1,4 @@
-# 🛰️ OverTheWire Bandit CTF – Complete Walkthrough (0 → 34)
+# 🛰️ OverTheWire Bandit CTF – Complete Walkthrough (0 → 33)
 
 ## 📌 Overview  
 This repository contains a complete and well-structured walkthrough of the **OverTheWire Bandit Capture The Flag (CTF)** challenge, covering **Level 0 to Level 34**.  
